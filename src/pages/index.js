@@ -11,7 +11,7 @@ function index() {
       <Info />
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Home | Sumanth</title>
+        <title>Curt Poff | Home</title>
       </Helmet>
     </div>
   )

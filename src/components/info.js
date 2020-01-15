@@ -6,6 +6,7 @@ import {
   FaYoutube as Youtube,
   FaInstagram as Insta,
   FaEnvelope as Mail,
+  FaTelegram as Telegram,
 } from "react-icons/fa"
 
 export default function info() {
@@ -31,10 +32,13 @@ export default function info() {
         <a className="mr-5 icon" href="https://github.com/cpoff">
           <Github />
         </a>
-        <a className="mr-5 icon" href="mailto://curt.poff@gmail.com">
+        <a className="mr-5 icon" href="https://t.me/cpoff">
+          <Telegram />
+        </a>
+        <a className="mr-5 icon" href="mailto://cpoff@protonmail.com">
           <Mail />
         </a>
-      </div>
+        </div>
     </div>
   )
 }

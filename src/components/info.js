@@ -18,7 +18,7 @@ export default function info() {
       </div>
       <div className="h1 code mt-4 mb-3">async {"{"}</div>
       <div className="text-muted mx-5 my-4 h3 text-justify info">
-      I’ve worked as a web editor/developer/producer/project manager for the past 20 years at <em>The Arizona Republic</em>, Macworld, Walmart.com, and Nike. I’m married to the lovely <a href="https://gofitgirl.com" target="_blank">Go Fit Girl!</a> We recently relocated to Tucson after many years in the Bay Area and Portland. It's nice and sunny here, so I'm happy.
+      I’ve worked as a web developer/producer/PM for the past 20 years at The Arizona Republic, Macworld, Walmart.com, and Nike. I’m married to the lovely <a href="https://gofitgirl.com" target="_blank">Go Fit Girl!</a> We recently relocated to Tucson after many years in the Bay Area and Portland. It's nice and sunny here, so I'm happy.
       </div>
       <div className="h1 code mt-2 mb-3">{"}"}</div>
       <div className="h1 mt-5">
